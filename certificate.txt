@@ -1,0 +1,7 @@
+----- Certificate of Achievement -----
+Student Name: John
+Subject: Math
+Practical Marks: 12
+Theory Marks: 20
+Total Marks: 32
+--------------------------------------
